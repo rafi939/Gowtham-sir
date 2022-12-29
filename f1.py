@@ -19,7 +19,7 @@ print(len("rafi"))
 
 #print "Python is Amezing
 print("\n \t Python is Amezing")
-
+ 
 #read two strings in two different variables, concat them and print
 s1=" Rafi"
 s2="Rebal"
