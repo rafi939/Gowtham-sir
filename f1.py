@@ -3,7 +3,7 @@ print("bmjhadjvc ehajsgvhc")
 fo = 2.30
 print("float value of f is: ",fo)
 p=type(fo) 
-print(p)
+print(p)#
 print(type(p))
 num=[10,20,30]
 s=sum(num,100)
